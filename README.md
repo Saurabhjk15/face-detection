@@ -6,14 +6,14 @@ This project is a face detection system that utilizes real-time database integra
 - Store encoded facial data in a database for future identification.
 - Authenticate users based on image data.
 
-The system employs computer vision and machine learning techniques to process facial features efficiently. With Firebase integration, it ensures fast and secure data storage, making it suitable for applications like attendance systems, security monitoring, and access control.
+The system employs computer vision  to process facial features efficiently. With Firebase integration, it ensures fast and secure data storage, making it suitable for applications like attendance systems, security monitoring, and access control.
 
 ## Features 🚀
 - **Real-time Face Recognition**: Detect and recognize faces instantly using a webcam.
 - **Face Encoding and Storage**: Convert facial features into encodings and save them in a database.
 - **Database Integration**: Store and retrieve data using Firebase.
 - **User Authentication**: Verify individuals based on their facial data.
-- **Optimized Performance**: Efficient use of OpenCV and machine learning algorithms for accurate recognition.
+- **Optimized Performance**: Efficient use of OpenCV.
 
 ## Installation 🛠️
 
@@ -62,8 +62,7 @@ face-detection-main/
 │   ├── Images/
 │   └── Resources/
 │── README.md
-│── requirements.txt
-```
+
 
 ## Contributing 🤝
 Feel free to submit issues or pull requests to improve the project.
