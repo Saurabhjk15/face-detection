@@ -20,7 +20,7 @@ The system employs computer vision and machine learning techniques to process fa
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
-- Required Python libraries (listed in `requirements.txt`)
+- Required Python libraries.
 - Firebase setup (for database integration)
 
 ### Steps to Set Up 🔧
